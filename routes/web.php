@@ -23,6 +23,16 @@ Route::get('/services', function () {
     return view('services');
 });
 
-Route::get('/mail', function () {
-    return view('mail');
+Route::get('/faq', function () {
+    return view('faq');
 });
+
+Route::get('/request', function () {
+    return view('request');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::post('/request-delivery', 'MainController@requestDelivery');

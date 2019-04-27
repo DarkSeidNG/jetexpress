@@ -26,7 +26,8 @@
                 <div class="col-md-6">
                     <div class="about-us">
                         <h2 class="section-title pb-10 wow fadeInUp" data-wow-offset="50" data-wow-delay=".20s"> About Us </h2>
-                        <p class="fs-16 wow fadeInUp" data-wow-offset="50" data-wow-delay=".25s">Jet Express Logistics  is a specialized courier service as well as helping you with your daily errands. We operates with well trained and competent staff equipped to meet and deliver required services to your organization.
+                        <p class="fs-16 wow fadeInUp" data-wow-offset="50" data-wow-delay=".25s">
+                            Jet Express Logistics  is a specialized courier service as well as helping you with your daily errands. We operates with well trained and competent staff equipped to meet and deliver required services to your organization.
                             <br/><br/>
                             Jet Express Logistics are fast and reliable with 24/7 online/phone support.
                             <br/><br/>

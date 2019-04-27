@@ -91,7 +91,7 @@
             <div class="theme-container container">
                 <div class="row">
                     <div class="col-md-2 col-sm-12">
-                        <a class="navbar-logo" href="index-2.html"> <img src="assets/img/logo/logo.jpg" alt="logo" /> </a>
+                        <a class="navbar-logo" href="{{url('/')}}"> <img src="assets/img/logo/logo.jpg" alt="logo" /> </a>
                     </div>
                     <div class="col-md-10 col-sm-12 fs-12 text-right">
                         <ul class="list-inline">
@@ -120,15 +120,15 @@
                         </button>
                     </div>
                     <div class="col-md-10 col-sm-10 col-xs-12 fs-12">
-                        <a class="sticky-logo hidden-sm" href="index-2.html"> <img alt="" src="assets/img/logo/logo.jpg" style="height: 100%; width: auto;" /> </a>
+                        <a class="sticky-logo hidden-sm" href="{{url('/')}}"> <img alt="" src="assets/img/logo/logo.jpg" style="height: 100%; width: auto;" /> </a>
                         <div id="navbar" class="collapse navbar-collapse no-pad">
                             <ul class="navbar-nav theme-menu">
-                                <li class="active"><a href="index-2.html">Home</a></li>
-                                <li><a href="about-us.html">about</a></li>
-                                <li><a href="services.html">services</a></li>
-                                <li><a href="faq.html">faq</a></li>
-                                <li><a href="request-pickup.html">request pickup & delivery</a></li>
-                                <li><a href="contact-us.html">contact</a></li>
+                                <li><a href="{{url('/')}}">Home</a></li>
+                                <li><a href="{{url('/about-us')}}">about</a></li>
+                                <li><a href="{{url('/services')}}">services</a></li>
+                                <li><a href="{{url('/faq')}}">faq</a></li>
+                                <li><a href="{{url('/request')}}">request pickup & delivery</a></li>
+                                <li><a href="{{url('/contact')}}">contact</a></li>
                             </ul>
                         </div>
                     </div>
