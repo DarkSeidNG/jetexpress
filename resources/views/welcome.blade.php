@@ -36,7 +36,7 @@
                 </div>
                 <div class="col-md-6 text-center">
                     <div class="pb-80 visible-lg"></div>
-                    <img alt="" src="assets/img/block/about-img.png" class="wow slideInRight" data-wow-offset="50" data-wow-delay=".20s" />
+                    <img alt="" src="assets/img/block/about-img.jpg" height="400" class="wow slideInRight" data-wow-offset="50" data-wow-delay=".20s" />
                 </div>
             </div>
         </div>
@@ -94,41 +94,6 @@
     </section>
     <!-- /.Product Delivery -->
 
-    <!-- Testimonial -->
-    <section class="testimonial mask-overlay">
-        <div class="theme-container container">
-            <div class="testimonial-slider no-pagination" style="padding: 50px;">
-                <div class="item">
-                    <div class="testimonial-content">
-                        <i class="fa fa-user fa-4x"></i>
-                        <p class="wow fadeInUp" data-wow-offset="50" data-wow-delay=".25s">
-                            With Jet Express Logistics, your package is in safe hands.
-                        </p>
-                        <h2 class="title-2 pt-10 wow fadeInUp" data-wow-offset="50" data-wow-delay=".20s"> <a href="index-2.html#" class="white-clr fw-900"> Abdul Hassan </a> </h2>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="testimonial-content">
-                        <i class="fa fa-user fa-4x"></i>
-                        <p>
-                            Jet Express' drivers are professional and on time.
-                        </p>
-                        <h2 class="title-2 pt-10"> <a href="index-2.html#" class="white-clr fw-900"> Ademola Adewale </a> </h2>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="testimonial-content">
-                        <i class="fa fa-user fa-4x"></i>
-                        <p>
-                            I like that I can book their pickup & delivery services from the website
-                        </p>
-                        <h2 class="title-2 pt-10"> <a href="index-2.html#" class="white-clr fw-900"> Okon Asuquo </a> </h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- /.Testimonial -->
 
     <!-- Contact us -->
     <section class="contact-wrap pad-120">

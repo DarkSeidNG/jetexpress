@@ -47,7 +47,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 text-center">
-                    <img alt="" src="assets/img/block/about-img.png" class="effect animated fadeInRight" />
+                    <img alt="" src="assets/img/block/about-img.jpg" height="400" class="effect animated fadeInRight" />
                 </div>
             </div>
         </div>
